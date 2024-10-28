@@ -2,6 +2,11 @@
 
 Notes for the Photo &amp; Cinematography class
 
+## Lightroom export settings
+
+![Export Dialog](references/lightroom-export/lightroom-export.jpg)
+![Custom Name](references/lightroom-export/lightroom-export-rename.jpg)
+
 ## Camera movements
 
 [What Happens to a Movie Without a Camera Operator?](https://www.youtube.com/watch?v=Kq_qBUeSLl4&ab_channel=VanityFair)
