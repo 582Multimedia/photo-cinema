@@ -18,6 +18,10 @@ Notes for the Photo &amp; Cinematography class
 ​
 [Lessons From The Parasite Storyboards](https://www.youtube.com/watch?v=JE26E4IM_-g&ab_channel=ThomasFlight)
 
+### Storyboard Templates
+
+[Free Storyboard Templates](https://boords.com/storyboard-template)
+
 ### Cheatsheet
 
 [Camera Angles Cheatsheet](https://downloads.boords.com/boords-camera-angles.pdf)
