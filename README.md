@@ -2,6 +2,10 @@
 
 Notes for the Photo &amp; Cinematography class
 
+<!-- ## Dialog
+
+[well, dialogue doesn't get much better than this...](https://www.youtube.com/watch?v=jKG-ij97nB8&ab_channel=SceneIt) -->
+
 ## Lightroom export settings
 
 ![Export Dialog](references/lightroom-export/lightroom-export.jpg)
