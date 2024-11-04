@@ -6,11 +6,15 @@ Notes for the Photo &amp; Cinematography class
 
 [well, dialogue doesn't get much better than this...](https://www.youtube.com/watch?v=jKG-ij97nB8&ab_channel=SceneIt) -->
 
-## Premiere timeline settings
+## Premiere settings
+
+### Timeline settings
 
 ![Timeline settings](references/premiere/premiere-timeline-settings.jpg)
 
 ![Timeline settings image duration](references/premiere/premiere-timeline-settings-image-duration.jpg)
+
+### File speed duration settings
 
 ![File speed duration](references/premiere/premiere-file-speed-duration.jpg)
 
