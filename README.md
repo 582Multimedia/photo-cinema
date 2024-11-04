@@ -6,6 +6,18 @@ Notes for the Photo &amp; Cinematography class
 
 [well, dialogue doesn't get much better than this...](https://www.youtube.com/watch?v=jKG-ij97nB8&ab_channel=SceneIt) -->
 
+## Premiere timeline settings
+
+![Timeline settings](references/premiere/premiere-timeline-settings.jpg)
+
+![Timeline settings image duration](references/premiere/premiere-timeline-settings-image-duration.jpg)
+
+![File speed duration](references/premiere/premiere-file-speed-duration.jpg)
+
+![File speed duration default](references/premiere/premiere-file-speed-duration-default.jpg)
+
+![File speed duration fixed](references/premiere/premiere-file-speed-duration-fixed.jpg)
+
 ## Lightroom export settings
 
 ![Export Dialog](references/lightroom-export/lightroom-export.jpg)
