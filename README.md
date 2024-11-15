@@ -2,7 +2,7 @@
 
 Notes for the Photo &amp; Cinematography class
 
-<!-- ## Video Inspirations
+## Video Inspirations
 
 [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo&ab_channel=WesleyWang)
 
@@ -26,11 +26,11 @@ Notes for the Photo &amp; Cinematography class
 
 [for those who might be "scared to start"](https://www.youtube.com/watch?v=fqWav4L2DRQ&ab_channel=MarianneBeaulieu)
 
-[How glowing up ruined my life - Alivia D'Andrea](<https://www.youtube.com/watch?v=_6I34KPrNXQ&ab_channel=AliviaD%27Andrea>) -->
+[How glowing up ruined my life - Alivia D'Andrea](<https://www.youtube.com/watch?v=_6I34KPrNXQ&ab_channel=AliviaD%27Andrea>)
 
-<!-- ## Dialog
+## Dialog
 
-[well, dialogue doesn't get much better than this...](https://www.youtube.com/watch?v=jKG-ij97nB8&ab_channel=SceneIt) -->
+[well, dialogue doesn't get much better than this...](https://www.youtube.com/watch?v=jKG-ij97nB8&ab_channel=SceneIt)
 
 ## Premiere settings
 
