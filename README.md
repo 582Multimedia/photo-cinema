@@ -1,4 +1,4 @@
-# 582-104-va-photo-cinema
+# Photo &amp; Cinematography
 
 Notes for Photo &amp; Cinematography
 
