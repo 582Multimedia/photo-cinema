@@ -7,8 +7,8 @@
 [Shot Size in Filmmaking](https://www.learnaboutfilm.com/film-language/picture/shotsize/)
 
 - [The Dark Knight (2008) - Opening Scene](https://www.youtube.com/watch?v=xLcHPsWK5xg)
-- [Flamingo Chicks Trapped in Frozen Lake | Eden: Untamed Planet | BBC Earth](https://www.youtube.com/watch?v=-DerMxKmFdc)
-- [Wild Hamster Has A Graveyard Feast | Seven Worlds, One Planet | BBC Earth](https://www.youtube.com/watch?v=rkZ6gzyg7yY)
+- [Flamingo Chicks Trapped in Frozen Lake](https://www.youtube.com/watch?v=-DerMxKmFdc)
+- [Wild Hamster Has A Graveyard Feast](https://www.youtube.com/watch?v=rkZ6gzyg7yY)
 
 ## Exercise demo / example
 
