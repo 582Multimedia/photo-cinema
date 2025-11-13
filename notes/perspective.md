@@ -1,10 +1,14 @@
 # Perspective
 
+[Ratatouille - Know what I'm craving? A little perspective.](https://www.youtube.com/watch?v=keW4QqRGVN4)
+
 ## Shot Sizes
 
 [Shot Size in Filmmaking](https://www.learnaboutfilm.com/film-language/picture/shotsize/)
 
 - [The Dark Knight (2008) - Opening Scene](https://www.youtube.com/watch?v=xLcHPsWK5xg)
+- [Flamingo Chicks Trapped in Frozen Lake | Eden: Untamed Planet | BBC Earth](https://www.youtube.com/watch?v=-DerMxKmFdc)
+- [Wild Hamster Has A Graveyard Feast | Seven Worlds, One Planet | BBC Earth](https://www.youtube.com/watch?v=rkZ6gzyg7yY)
 
 ## Exercise demo / example
 
