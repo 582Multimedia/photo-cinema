@@ -2,5 +2,5 @@
 
 ## Export Settings
 
-![Rename](/references/lightroom-export/lightroom-export-rename.jpg)
 ![Export](/references/lightroom-export/lightroom-export.jpg)
+![Rename](/references/lightroom-export/lightroom-export-rename.jpg)
