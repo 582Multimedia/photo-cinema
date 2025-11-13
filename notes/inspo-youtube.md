@@ -1,4 +1,4 @@
-# Video Inspo
+# Youtube Shorts
 
 [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo&ab_channel=WesleyWang)
 
