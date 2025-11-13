@@ -8,7 +8,7 @@
 
 ## Software Notes
 
-- 
+- [Lightroom](/notes/lightroom.md)
 
 ## Inspiration
 
