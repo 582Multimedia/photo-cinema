@@ -1,10 +1,14 @@
 # Photo &amp; Cinematography
 
-## Notes
+## Theory Notes
 
 - [Cameras and Lenses](/notes/camera-basics.md)
 - [Perspective](/notes/perspective.md)
 - [Continuity](/notes/continuity.md)
+
+## Software Notes
+
+- 
 
 ## Inspiration
 
