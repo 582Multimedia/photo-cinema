@@ -1,6 +1,6 @@
 # Youtube Shorts
 
-## Essentials
+## Narrative Shorts
 
 [nothing, except everything.](https://www.youtube.com/watch?v=hif5eI5pBxo&ab_channel=WesleyWang)
 
@@ -13,6 +13,12 @@
 [Natalie Lynn Breaks Down Her Most Iconic Shots](https://www.youtube.com/watch?v=hx2Qkn-vPVU&ab_channel=DigitalSpaghetti)
 
 [Natalie Lynn Makes Cinematic Videos that Feel Like Journal Entries](https://www.youtube.com/watch?v=T1Mf8j44kIk&ab_channel=DigitalSpaghetti)
+
+## Abstract Shorts
+
+- [Neighbours](https://www.youtube.com/watch?v=e_aSowDUUaY)
+- [Baraka - Dervishes, Wailing Wall & the Kaaba](https://www.youtube.com/watch?v=CZGDlh-rNPI)
+- [H20 — 1929. Photographed and composed by Ralph Steiner. Music by An Orchestrated Impulse.](https://www.youtube.com/watch?v=Pzf0fXolisE)
 
 ## Extras
 
