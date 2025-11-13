@@ -5,6 +5,7 @@
 - [Cameras and Lenses](/notes/camera-basics.md)
 - [Perspective](/notes/perspective.md)
 - [Continuity](/notes/continuity.md)
+- [Storyboards](/notes/storyboards.md)
 
 ## Software Notes
 
