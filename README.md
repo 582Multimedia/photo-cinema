@@ -9,6 +9,7 @@
 ## Software Notes
 
 - [Lightroom](/notes/lightroom.md)
+- [Premiere](/notes/premiere.md)
 
 ## Inspiration
 
